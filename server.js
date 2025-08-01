@@ -9,6 +9,13 @@ const server = http.createServer((req, res) => {
     res.end()
 });
 
+const animal = {
+    type: "elephant",
+    named: "kuttu",
+}
+
+console.log(JSON.stringify(animal))
+
 
 server.listen(PORT, () => {
     console.log(`server is running on the port: ${PORT}`)
