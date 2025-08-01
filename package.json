@@ -1,0 +1,19 @@
+{
+  "name": "wild-horizon",
+  "version": "1.0.0",
+  "description": "a dataset of world's most interesting places",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishika-325/wild-horizon.git"
+  },
+  "author": "Ishika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ishika-325/wild-horizon/issues"
+  },
+  "homepage": "https://github.com/Ishika-325/wild-horizon#readme"
+}
